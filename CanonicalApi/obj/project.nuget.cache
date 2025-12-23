@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ex9bRQ/xv3c=",
+  "success": true,
+  "projectFilePath": "c:\\Code\\lfm\\lfm-wms\\CanonicalApi\\CanonicalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doug\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\doug\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
